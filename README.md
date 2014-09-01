@@ -6,7 +6,7 @@ In this example app1, app2 and app3 are Express apps, and app4 is a Sails.js app
 
 Because of the nature of the [Sails.js framework](http://sailsjs.org/) we need to tweak the files `server.js`and `app4-sails/app.js` in order to be able to run Sails.js apps along with Express apps on the same Node.js server.
 
-> This example is based on Loïc Saint-Roch ([express-vhosts example](https://github.com/loicsaintroch/express-vhosts)) and solution found thanks to [@sgress454](https://github.com/sgress454) via [StackOverFlow question](http://stackoverflow.com/questions/25345423/node-js-express-with-vhost-conflict-with-sails-js-framework-app).
+> This example is based on Loïc Saint-Roch [express-vhosts example](https://github.com/loicsaintroch/express-vhosts) and solution found thanks to [@sgress454](https://github.com/sgress454) via [StackOverFlow question](http://stackoverflow.com/questions/25345423/node-js-express-with-vhost-conflict-with-sails-js-framework-app).
 
 ## License
 
