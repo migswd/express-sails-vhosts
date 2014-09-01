@@ -56,6 +56,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# IDE files
+.project
+.idea/
+.git/
 
 ############################################################
 # Node.js
