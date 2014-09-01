@@ -2,7 +2,7 @@
 
 express-sails-vhosts is a minimalist demo on how to run multiple and mixed applications on one server with Node.js and Express/Sails frameworks.
 
-In this example app1, app2 and app3 are Express apps, and app4 is a Sails.js app.  
+In this example app1, app2 and app3 are Express apps, and app4 is a Sails.js app.   xx
 
 Because of the nature of the [Sails.js framework](http://sailsjs.org/) we need to tweak the files `server.js`and `app4-sails/app.js` in order to be able to run Sails.js apps along with Express apps on the same Node.js server.
 
